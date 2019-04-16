@@ -28,6 +28,10 @@ return [
 
     'env' => env('APP_ENV', 'production'),
 
+
+    'faker_locale' => 'zh_CN',
+
+
     /*
     |--------------------------------------------------------------------------
     | Application Debug Mode
